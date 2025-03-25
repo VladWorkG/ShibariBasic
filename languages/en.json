@@ -1,0 +1,150 @@
+{
+    "siteTitle": "Shibari: Basics",
+    "modules": {
+        "998": {
+            "title": "About this course",
+            "YearAndName": "© 2025 Shibari Basics. Все права защищены.",
+            "content": [
+            "<h2>Shibari: Fundamentals – The Art of Safe Bondage</h2>",
+            "<p>This course is created by enthusiasts for anyone interested in discovering shibari – the art of rope bondage that combines aesthetics, trust, and technique. The course is completely <strong>free</strong> and designed for beginners who want to learn the basics of shibari culture, safety, rope handling, and fundamental techniques of knots, bindings, and suspensions.</p>",
+            
+            "<h3>Course Goals:</h3>",
+            "<ul>",
+            "<li>Learn about the history and philosophy of shibari.</li>",
+            "<li>Understand the fundamentals of safety and anatomy in rope bondage.</li>",
+            "<li>Master basic knotting and binding techniques.</li>",
+            "<li>Develop trust and effective communication with a partner.</li>",
+            "</ul>",
+
+            "<h3>Course Program:</h3>",
+            "<ul>",
+            "<p>We will explore the philosophy of shibari, its cultural roots, and modern directions. Discussions will include the principles of respect, consent, and trust in practice.</p>",
+            "<p>Fundamentals of safe bondage: key risk areas, circulation and nerve awareness, emergency situations, and how to prevent them.</p>",
+            "<p>Learning essential knots, rope fastening methods, and classic binding patterns.</p>",
+            "<p>Understanding weight distribution, body balance, and preparation for suspensions.</p>",
+            "</ul>",
+
+            "<h3>Disclaimer:</h3>",
+            "<p>By participating in this course, I acknowledge that all bondage practices carry potential risks. I take full responsibility for my actions and commit to following all safety recommendations.</p>",
+            "<p>The course organizers are not responsible for any injuries, damages, or other consequences arising from training or independent practice. I confirm that I am participating voluntarily and with full awareness.</p>"
+        ],
+        "button": {
+            "start": "Explore",
+            "complete": "Give Consent",
+            "completed": "Read | Consent Given"
+        }
+        },
+        "1": {
+            "title": "Module 1: The History of Shibari",
+            "content": [
+                    "<p>Goal: Immerse in the <strong>cultural and historical context</strong> of shibari.</p>",
+                    "<h3>Topics:</h3>",
+                    "<ul>",
+                    "<li><h2>The Origins of Shibari: Hojōjutsu as a Predecessor</h2></li>",
+
+                    "<p>Shibari (Jap. 縛り) originates from the ancient martial art of <strong>hojōjutsu</strong> (hojōjutsu), which was used by samurai during the Edo period (1603–1868) to bind and transport criminals. It was not only an effective means of restraint but also a way of conveying information about the status of the prisoner. Different knots and methods of binding indicated the social status, crime, and even the degree of punishment.</p>",
+                    "<p>Hojōjutsu was also considered an art that required discipline, precision, and knowledge of anatomy. Samurai honed the technique of binding to minimize harm to prisoners, while still limiting their mobility. Some knots were designed to avoid pain but still prevent escape.</p>",
+                    "<li><h2>Historical Development and Connection to Japanese Arts</h2></li>",
+
+                    "<p>Over time, hojōjutsu lost its military significance, and its elements were adopted in theatrical performances, especially in <strong>kabuki</strong> and <strong>bunraku</strong>. Actors used intricate knots to enhance the dramatic effect of scenes in which characters were bound. This contributed to the perception of binding as an artistic element.</p>",
+                    "<p>Later, the traditions of knots and binding became part of visual arts and Japanese calligraphy, where the lines of ropes began to symbolize rhythm, balance, and harmony. The visual images of knots became metaphors for connection, dependency, and unity.</p>",
+                    "<li><h2>The Evolution from Practical Techniques to Aesthetic Practices</h2></li>",
+
+                    "<p>In the 20th century, shibari evolved into a unique form of artistic self-expression. Its popularization began in theatrical and photographic performances, where binding was used not only as a means of restraint but also as an aesthetic element. Contemporary masters study not only the physical technique of binding but also the psychological aspects of interaction between the rigger and the model.</p>",
+                    "<p>Today, shibari is recognized worldwide as a form of <strong>performative art</strong>, blending physical dynamics, emotional connection, and visual harmony. Its philosophy resonates with the principles of Zen Buddhism and minimalism, making the process of binding meditative and deeply meaningful.</p>",
+
+
+                    "</ul>",
+                    "<h3>Assignments:</h3>",
+                    "<p>Prepare a report and discuss it on the forum.</p>"
+                ],
+            "button": {
+                "start": "Start",
+                "complete": "Complete",
+                "completed": "Completed"
+            }
+
+        },
+        "2": {
+            "title": "Module 2: Types and Treatment of Rope",
+            "content": [
+                    "<p>Goal: Choose and master <strong>rope care</strong>.</p>",  
+                "<h3>Topics:</h3>",  
+                "<ul>",  
+                "<li><h2>Shibari rope materials</h2></li>",  
+                "The choice of rope material determines tactile sensations, safety, and the appearance of bindings. The most popular materials include:",  
+                    "<ul>",  
+                    "<li><p>Cotton: Soft and pleasant to the touch, cotton ropes glide easily over the skin, providing comfort. However, they may be less durable and prone to wear.</p></li>",  
+                    "<li><p>Linen: Linen has a natural texture and strength. It provides a good grip and control but can be rougher to the touch.</p></li>",  
+                    "<li><p>Synthetic fibers (e.g., nylon, polyester): These ropes are highly durable and long-lasting. They are easy to clean and do not absorb moisture but may be slippery and cold to the touch.</p></li>",  
+                    "<li><p>Jute: A natural fiber with a characteristic texture and scent. Jute ropes provide a good grip but may be less flexible and require additional care.</p></li>",  
+                    "<li><p>Asanawa (Japanese hemp): A traditional material for shibari, known for its strength and flexibility. Asanawa has a natural sheen and pleasant texture but can be more expensive and harder to find.</p></li>",  
+                    "</ul>",  
+                    "<li><h2>Rope preparation depending on the material</h2></li>",  
+                    "<p>Before using a rope in shibari, it is necessary to prepare it, considering the characteristics of the material:</p>",  
+                    "<ul>",  
+                    "<li><p>Cotton and linen: It is recommended to perform the breaking-in process. This involves wetting and drying the rope several times to make the fibers more flexible and reduce stretch.</p></li>",  
+                    "<li><p>Synthetic fibers: While these ropes do not require special preparation, it is important to check them for defects and ensure there are no slippery areas.</p></li>",  
+                    "<li><p>Jute: Jute ropes should be carefully inspected for sharp fibers and possible defects. It is recommended to wash them in warm water with a mild detergent to remove potential contaminants and soften the texture.</p></li>",  
+                    "<li><p>Asanawa: These ropes usually do not require additional preparation, but it is important to protect them from moisture and direct sunlight to maintain their quality.</p></li>",  
+                    "</ul>",  
+                    "<li><h2>Proper rope care depending on the type</h2></li>",  
+                    "<p>Proper rope care extends its lifespan and maintains safety:</p>",  
+                    "<ul>",  
+                    "<li><p>Cotton: It is recommended to wash in cold water using mild detergents. Avoid bleach and strong chemicals. Dry in the shade, avoiding direct sunlight.</p></li>",  
+                    "<li><p>Linen: Linen should be hand-washed or washed on a delicate machine cycle. Avoid strong wringing to prevent fiber damage. Dry flat in the shade.</p></li>",  
+                    "<li><p>Synthetic fibers: These ropes can be machine washed at a low temperature. Avoid high temperatures when drying to prevent deformation.</p></li>",  
+                    "<li><p>Jute: Jute ropes should not be washed frequently to avoid excessive wear. If cleaning is necessary, use dry cleaning or a slightly damp cloth. Store in a dry place, protected from moisture.</p></li>",  
+                    "<li><p>Asanawa: For caring for asanawa ropes, dry cleaning or professional leather cleaning is recommended. Avoid exposure to moisture and direct sunlight.</p></li>",  
+                    "</ul>",  
+                    "<p>The choice of rope material, proper preparation before first use, and careful maintenance are fundamental for shibari practice. This ensures not only safety and comfort but also extends the lifespan of the ropes while preserving their aesthetic qualities.</p>",  
+                "</ul>",  
+                "<h3>Tasks:</h3>",  
+                "<p>Visit hardware/specialty stores and touch the ropes yourself</p>"  
+            ],
+            "button": {
+                "start": "Start",
+                "complete": "Complete",
+                "completed": "Completed"
+            }
+        },
+        "3": {
+            "title": "Module 3: Safety | In Development",
+            "content": [
+                "",
+                "<p>In Development</p>"
+            ],
+            "button": {
+                "start": "Waiting",
+                "complete": "Waiting",
+                "completed": "Waiting"
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        "999": {
+            "title": "© 2025 Shibari Basics. <br>Все права защищены. <br> <e><a href=\"mailto:ShibariBasic@gmail.com\">Write to us</a><e>",
+            "YearAndName": "© 2025 Shibari Basics. Community.",
+            "content": [
+                "<p>No, right now :(</p>"
+            ],
+            "button": {
+                "start": "Those who recommend us <br> Communities and masters (0)",
+                "complete": "Those who recommend us <br> Communities and masters (0)",
+                "completed": "Those who recommend us <br> Communities and masters (0)"
+            }
+        }
+    }
+}

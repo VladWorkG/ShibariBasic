@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+}
+.footer {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+.module {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.module:hover {
+    transform: translateY(-5px);
+}
+
+.module.locked {
+    background-color: #f0f0f0;
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+.module h2 {
+    margin: 0 0 15px 0;
+    color: #2c3e50;
+}
+
+.module-content {
+    margin-top: 15px;
+    color: #666;
+    display: none;
+}
+a {
+    color: #3498db;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    color: #2980b9
+}
+e {
+    color: #2980b9;
+}
+.module-content.active {
+    display: block;
+}
+
+.module ul {
+    padding-left: 20px;
+}
+
+.btn {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+.btn:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+}
+
+.btn.completed {
+    background-color: #2ecc71;
+}
+
+.btn.completed:hover {
+    background-color: #27ae60;
+}
+
+.language-switcher {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.lang-btn {
+    background: none;
+    border: none;
+    color: #666;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.lang-btn.active {
+    color: #3498db;
+    font-weight: bold;
+}
+
+.lang-btn:hover {
+    color: #2980b9;
+}
